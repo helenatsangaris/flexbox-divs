@@ -97,7 +97,7 @@ textarea {
 
 
 html {
-  background-color: #fff;
+  background-color: #bc8f8f;
   height: 100%;
 }
 
@@ -118,12 +118,11 @@ body {
   width: 30%;
   display: flex;
   justify-content: center;
-  align-items: center;
   color: #fff;
   line-height: 1.5em;
-  font-size: 1.6em;
-  background-color: #f16059;
+  font-size: 1em;
   height: 300px;
+  padding: 1%;
 }
 
 
